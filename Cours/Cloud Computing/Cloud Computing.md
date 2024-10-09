@@ -114,3 +114,5 @@ AWS Lambda
 	exemple de fonction Lambda basée sur un calendrier (démarrer et arrêter des instances EC2)![[Pasted image 20241008134146.png]]
 		ici basée sur les événements (crée des images miniatures)![[Pasted image 20241008134252.png]]
 		
+Stockage par **bloc** (AWS EBS)
+
