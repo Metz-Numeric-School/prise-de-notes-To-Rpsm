@@ -29,8 +29,10 @@
 
 ![[0_7GxX2NC7lEs0pK-_.png]]                                                                     **Modèle TCP / IP**
 
+
 ![[CCNA-IPv4-Classe.webp]]
 **Classe d'adresse IP**
+
 
 1000 0000 = ==128==
 1100 0000 = ==192==
@@ -40,4 +42,13 @@
 1111 1100 = ==252==
 1111 1110 = ==254==
 1111 1111 = ==255==
+
+![[Pasted image 20241105103836.png]]
+**Routage on a stick**
+
+![[Pasted image 20241105112637.png]]![[Pasted image 20241105114812.png]]
+![[Pasted image 20241105115154.png]]
+![[Pasted image 20241105115459.png]]
+![[Pasted image 20241105115520.png]]
+![[Pasted image 20241105120041.png]]
 

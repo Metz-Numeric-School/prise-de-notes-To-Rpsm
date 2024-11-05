@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5fc7b34a41d156b",
+        "id": "ba4580825ea30612",
         "type": "tabs",
         "children": [
           {
-            "id": "2af688e10f13e583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Windows Server/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bde79621fec2e04d",
+            "id": "9f2b56128187dcd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,11 +16,12 @@
                 "file": "Cours/Algorithmie/Git Bash.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Git Bash"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -67,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -75,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -106,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Git Bash"
             }
           },
           {
@@ -118,7 +115,9 @@
                 "file": "Cours/Algorithmie/Git Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Git Bash"
             }
           },
           {
@@ -129,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -139,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "Cours/Algorithmie/Git Bash.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Git Bash"
             }
           }
         ]
@@ -159,19 +162,25 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "bde79621fec2e04d",
+  "active": "9f2b56128187dcd2",
   "lastOpenFiles": [
     "Cours/Architechture Réseau/Révision réseau.md",
-    "CCNA-IPv4-Classe.webp",
+    "Image/Pasted image 20241105120041.png",
+    "Image/Pasted image 20241105115520.png",
+    "Image/Pasted image 20241105115459.png",
+    "Image/Pasted image 20241105115154.png",
+    "Image/Pasted image 20241105114812.png",
+    "Image/Pasted image 20241105112637.png",
+    "Image/Pasted image 20241105103836.png",
+    "Cours/Windows Server/DNS.md",
+    "Cours/Algorithmie/Git Bash.md",
+    "Image/CCNA-IPv4-Classe.webp",
     "Image/0_7GxX2NC7lEs0pK-_.png",
     "Image/modele-OSI-872x1024.png",
-    "Cours/Algorithmie/Git Bash.md",
     "Cours/Architechture Réseau",
     "Cours/Algorithmie/Learning Branching.md",
     "Cours/Algorithmie/Les variables.md",
     "Cours/Windows Server/DHCP.md",
-    "Cours/Windows Server/DNS.md",
-    "Image/Pasted image 20241015102005.png",
     "Veille/Ressources web.md",
     "Cours/Windows Server",
     "Cours/Anglais/Anglais.md",
@@ -179,12 +188,6 @@
     "Cours/Anglais",
     "Cours/Culture Juridique",
     "Cours/Cloud Computing/Cloud Computing.md",
-    "Image/Pasted image 20241008134252.png",
-    "Image/Pasted image 20241008134146.png",
-    "Image/Pasted image 20241008134039.png",
-    "Image/Pasted image 20241008112427.png",
-    "Image/Pasted image 20241008112322.png",
-    "Image/Pasted image 20241008111824.png",
     "Cours/Cloud Computing",
     "README.md",
     "Exercice.md",
