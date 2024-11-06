@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4580825ea30612",
+        "id": "9913bd8d7e9511ad",
         "type": "tabs",
         "children": [
           {
-            "id": "9f2b56128187dcd2",
+            "id": "575b0e128fc5d6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,21 +162,23 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9f2b56128187dcd2",
+  "active": "575b0e128fc5d6b1",
   "lastOpenFiles": [
-    "Cours/Architechture Réseau/Révision réseau.md",
+    "Cours/Gestion de projet/Gestion de projet informatique.md",
+    "Image/balancoire1.webp",
+    "Image/amoa_moa_moe-1.svg",
+    "Image/0_7GxX2NC7lEs0pK-_.png",
+    "Image/xcomposition-diagramme-gantt.png.pagespeed.ic.EOBMI1GCrV.png",
     "Image/Pasted image 20241105120041.png",
+    "Image/Diagramme-de-gantt-planning-1.jpg",
+    "Cours/Architechture Réseau/Révision réseau.md",
+    "Cours/Gestion de projet",
+    "Cours/Algorithmie/Git Bash.md",
     "Image/Pasted image 20241105115520.png",
     "Image/Pasted image 20241105115459.png",
     "Image/Pasted image 20241105115154.png",
     "Image/Pasted image 20241105114812.png",
-    "Image/Pasted image 20241105112637.png",
-    "Image/Pasted image 20241105103836.png",
     "Cours/Windows Server/DNS.md",
-    "Cours/Algorithmie/Git Bash.md",
-    "Image/CCNA-IPv4-Classe.webp",
-    "Image/0_7GxX2NC7lEs0pK-_.png",
-    "Image/modele-OSI-872x1024.png",
     "Cours/Architechture Réseau",
     "Cours/Algorithmie/Learning Branching.md",
     "Cours/Algorithmie/Les variables.md",
@@ -200,7 +202,6 @@
     "fonction.md",
     "Cours/Algo",
     "Cours/Sans titre 1",
-    "Cours/Module A",
     "ALGO/Sommaire.md",
     "Welcome.md"
   ]
