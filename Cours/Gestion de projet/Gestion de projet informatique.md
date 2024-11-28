@@ -31,3 +31,10 @@ Types de découpages
 ![[xcomposition-diagramme-gantt.png.pagespeed.ic.EOBMI1GCrV.png]]
 **Diagramme de GANTT**
 
+==T==echnique
+==H==umain
+==O==rganisation
+==E==conomie (Finance Budget)
+==E==nvironnement (DEEE)
+
+

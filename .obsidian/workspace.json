@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "575b0e128fc5d6b1",
+            "id": "c4a083eb52655e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,9 +162,13 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "575b0e128fc5d6b1",
+  "active": "c4a083eb52655e3d",
   "lastOpenFiles": [
+    "Cours/Windows Client avancé/Windows client avancé.md",
+    "Cours/Windows Client avancé",
+    "Cours/Anglais/Anglais.md",
     "Cours/Gestion de projet/Gestion de projet informatique.md",
+    "Cours/Algorithmie/Git Bash.md",
     "Image/balancoire1.webp",
     "Image/amoa_moa_moe-1.svg",
     "Image/0_7GxX2NC7lEs0pK-_.png",
@@ -173,7 +177,6 @@
     "Image/Diagramme-de-gantt-planning-1.jpg",
     "Cours/Architechture Réseau/Révision réseau.md",
     "Cours/Gestion de projet",
-    "Cours/Algorithmie/Git Bash.md",
     "Image/Pasted image 20241105115520.png",
     "Image/Pasted image 20241105115459.png",
     "Image/Pasted image 20241105115154.png",
@@ -185,7 +188,6 @@
     "Cours/Windows Server/DHCP.md",
     "Veille/Ressources web.md",
     "Cours/Windows Server",
-    "Cours/Anglais/Anglais.md",
     "Cours/Culture Juridique/Culture Juridique.md",
     "Cours/Anglais",
     "Cours/Culture Juridique",
@@ -201,7 +203,6 @@
     "Sans titre.canvas",
     "fonction.md",
     "Cours/Algo",
-    "Cours/Sans titre 1",
     "ALGO/Sommaire.md",
     "Welcome.md"
   ]

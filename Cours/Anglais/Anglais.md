@@ -24,3 +24,42 @@
 -you didnt write the good SIRET number of my company and moreover you also made a mistake with the TVA.
 -can you please fix that fast? i will send you my SIRET by email right now.
 
+
+MODAUX
+
+can / could
+must / mustnt
+have to had to
+might 
+shall
+should
+will 
+may
+
+**Preposition of time**
+1) at : specific time 
+2) on : days
+3) int : during a time
+
+**Preposition of place** 
+1) at : specific location
+2) on : surface or media
+3) in : inside
+
+**Present Perfect**
+1) Unfinished action 
+2) Life experience
+3) Recent actions
+
+**Future**
+1) will + verb
+2) Be + going to + verb
+
+
+==Did you know ? Mcdonald's==
+
+-Mcdonald is a company with lot a franchise 
+-Mcdonald make profit thanks to rent and royalties
+-Mcdonald brother sell their company for 2.7 Millions dollars with a 1% of royalty that never been respected by Ray Croc
+-the first mcdonald in france was opened in strasbourg
+-
